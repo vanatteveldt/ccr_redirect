@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://journal.computationalcommunication.org/:path*"
+    }
+  ]
+}
